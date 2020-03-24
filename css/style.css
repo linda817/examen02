@@ -1,0 +1,111 @@
+body{
+	font-size: Segoe UI;
+	font-size: 15px;
+}
+header{
+	position: absolute;
+	background-color: #ff6796;
+	width: 100%;
+	top:0;
+}
+
+h1{
+	font-family: 'Lobster', cursive;
+}
+
+h1 .titulos{
+	color: #f2f2f2;
+}
+
+p{
+	font-family: 'Open Sans', sans-serif;
+}
+
+
+#carousel{
+    padding-top: 62px;
+
+}
+.ladoderecho{
+    background-color: #FF6796;
+
+}
+.circulo2{
+    background-color:#EFA1CA;
+    padding: 40px;
+    border-radius: 1000px;
+    height: 400px;
+    width: 400px;
+}
+
+.lado1{
+    background-color: #FF6796;
+    padding-left: 200px;
+}
+
+#works{
+	padding: 100px;
+}
+
+#works img{
+    background-color:#EFA1CA;
+    padding: 40px;
+    border-radius: 100px;
+    height: 200px;
+	width: 200px;
+}
+
+#works h3{
+	font-family: 'Lobster', cursive;
+	color: #444444;
+	text-align: center;
+}
+
+#products{
+	background-color: #01BEFE;
+}
+
+#products h3{
+	font-family: 'Lobster', cursive;
+	color: #f2f2f2;
+	text-align: center;
+}
+
+#features{
+	background-color:  #FF6796;
+}
+
+#features h3{
+	font-family: 'Lobster', cursive;
+	color: #f2f2f2;
+	text-align: center;
+}
+
+#about{
+	text-align: center;
+	font-family: 'Lobster', cursive;
+	color:  #444444;
+}
+
+#team{
+	background-color: #01BEFE;
+}
+
+#team h3{
+	font-family: 'Lobster', cursive;
+	color: #f2f2f2;
+	text-align: center;
+}
+
+footer{
+	background-color: #231D1D;
+	color: #f2f2f2;
+	text-align: center;
+	padding: 80px;
+}
+
+hr{
+	color: #f8b500;
+	height: 0px;
+	border:1px dashed;
+}
